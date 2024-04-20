@@ -514,6 +514,7 @@ transition:transform 0.3s;
 }
 .block__heading{
     margin-top: 0;
+    margin-bottom: 4rem;
 } 
 .block--dark{
     background: #000;
@@ -677,3 +678,8 @@ transition:transform 0.3s;
        max-width: 700px;
     }
  }
+ /*footer block*/
+ .footer{
+    background: #232323;
+ }
+ 
